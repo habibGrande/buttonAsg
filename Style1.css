@@ -1,0 +1,25 @@
+.main{ margin: 30px;
+
+}
+.btn1 {
+    width: 100px;
+    border-radius: 12px;
+    color: #39abad;
+    border-color: #35aaab;
+    margin-bottom: 20px;
+  }
+
+.btn2 {
+  width: 15;
+  border-radius: 100%;
+  background-color: #00d1b2;
+  color: white;
+  margin-bottom: 20px;
+}
+.btn3{
+  width: 150px;
+  color: white;
+  background-color: #2b78e4;
+  box-shadow: 3px 1.5px  black;
+  margin-bottom: 20px;
+}
